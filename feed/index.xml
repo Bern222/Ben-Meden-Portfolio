@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Ben Meden Portfolio</title>
-	<atom:link href="http://localhost/Ben-Meden-Portfolio/feed/?simply_static_page=87" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/Ben-Meden-Portfolio/feed/?simply_static_page=128" rel="self" type="application/rss+xml" />
 	<link>https://bern222.github.io/Ben-Meden-Portfolio</link>
 	<description></description>
-	<lastBuildDate>Thu, 27 Apr 2023 14:23:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Apr 2023 16:06:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,9 +29,13 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://bern222.github.io/Ben-Meden-Portfolio/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing! Link]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+
+
+
+<p><a href="https://bern222.github.io/Ben-Meden-Portfolio/elementor-8/" data-type="page" data-id="8">Link</a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://bern222.github.io/Ben-Meden-Portfolio/2023/04/27/hello-world/feed/</wfw:commentRss>
